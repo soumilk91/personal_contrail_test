@@ -17,7 +17,7 @@ eventlet
 nose
 tabulate
 fabric==1.11.1
-paramiko==1.17.0
+paramiko==2.10.1
 dpkt
 kubernetes==1.0.0b3
 backports.ssl-match-hostname==3.5.0.1
